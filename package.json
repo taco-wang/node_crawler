@@ -1,0 +1,16 @@
+{
+  "name": "paper",
+  "description": "paper wangyong",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "latest",
+    "bluebird": "latest",
+    "mysql": "latest",
+    "async": "latest",
+    "cheerio": "latest",
+    "iconv-lite": "latest"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
