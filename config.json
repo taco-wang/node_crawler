@@ -1,9 +1,9 @@
 {
   "sql_option":{
-    "host":"192.168.31.181",
+    "host":"*****",
     "port":"3306",
-    "user":"developer01",
-    "password":"developer01",
-    "database":"rates"
+    "user":"*****",
+    "password":"******",
+    "database":"*******"
   }
 }
