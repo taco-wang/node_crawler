@@ -52,7 +52,6 @@ function get_info(list,handle_info, code,cb){
             next()
         }
     }, function () {
-        //conn.end()
         console.log('--------------------------------done')
         cb ? cb(): 0
     })
